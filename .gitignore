@@ -1,0 +1,14 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+backups
+configuration/goerli.json
+configuration/sepolia.json
+
+# Hardhat files
+cache
+artifacts
+

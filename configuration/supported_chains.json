@@ -1,0 +1,16 @@
+{
+  "goerli": {
+    "id": 10121,
+    "endpoint": "0xbfD2135BFfbb0B5378b56643c2Df8a87552Bfa23",
+    "serviceFee": "0",
+    "amountToReceive": "0.4",
+    "currency": "goETH"
+  },
+  "sepolia": {
+    "id": 10161,
+    "endpoint": "0xae92d5aD7583AD66E49A0c67BAd18F6ba52dDDc1",
+    "serviceFee": "0",
+    "amountToReceive": "0",
+    "currency": "sepETH"
+  }
+}
